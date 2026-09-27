@@ -1,0 +1,7 @@
+{
+  "name": "Drop Rush - Endless 2D Falling Object Survival Arcade",
+  "description": "A fast-paced 2D endless arcade survival game. Dodge hazards, catch treasures, unlock powerful abilities, and travel through endless changing worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
